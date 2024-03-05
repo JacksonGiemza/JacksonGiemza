@@ -7,7 +7,7 @@
 [Resume](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Jackson_Giemza_Resume_2024.pdf)
 
 
-### 📚 Projects:
+### 📚 Projects
 
 - <b>📈 Data Visualization</b>
   - [UFO Data Visualization](https://github.com/JacksonGiemza/ufo-data-vis-4602)
@@ -15,6 +15,12 @@
   - [CSGO Market Data Exploration](https://github.com/JacksonGiemza/csgo_market_data_analysis) 
 - <b>🧪 Statistics</b>
   - [Dice Roll Simulation](https://github.com/JacksonGiemza/dice-roll-simulator)
+
+### 🛠 Tools
+- Languages
+  - Python, R, SQL
+- visualization
+  - Tableau, Altair, Matplotlib
   
 ### 👋 Connect
 
