@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jackson! </h1>
+![Banner](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Jackson%20Giemza.png)
 
 <b>I'm currently studying information science and philosophy at the University of Colorado Boulder. I am passionate about using data to solve complex and meaningful problems and exploring the intersection of data and morality.</b>
 
