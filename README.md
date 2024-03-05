@@ -1,9 +1,13 @@
 ![Banner](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Jackson%20Giemza.png)
 
+### 🙋‍♂️ About Me
+
 <b>I'm currently studying information science and philosophy at the University of Colorado Boulder. I am passionate about using data to solve complex and meaningful problems and exploring the intersection of data and morality.</b>
 
+[Resume](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Jackson_Giemza_Resume_2024.pdf)
 
-<h2>📚 Projects:</h2>
+
+### 📚 Projects:
 
 - <b>📈 Data Visualization</b>
   - [UFO Data Visualization](https://github.com/JacksonGiemza/ufo-data-vis-4602)
@@ -12,10 +16,8 @@
 - <b>🧪 Statistics</b>
   - [Dice Roll Simulation](https://github.com/JacksonGiemza/dice-roll-simulator)
   
-### 👋🏻 Connect with Me
+### 👋 Connect
 
-- 708-340-8105
-- jackson.giemza@gmail.com
 - [Linkedin](https://www.linkedin.com/in/jackson-giemza/)
 - Hire me on [Upwork](https://www.upwork.com/freelancers/~019a597cca50b0200d)
 
