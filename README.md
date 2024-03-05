@@ -10,7 +10,7 @@
 - <b>🔎 Data Analysis Projects</b>
   - [CSGO Market Data Exploration](https://github.com/JacksonGiemza/csgo_market_data_analysis) 
 - <b>🧪 Statistics</b>
-  - [CSGO Market Data Exploration](https://github.com/JacksonGiemza/csgo_market_data_analysis)
+  - [Dice Roll Simulation](https://github.com/JacksonGiemza/dice-roll-simulator)
   
 ### 👋🏻 Connect with Me
 
