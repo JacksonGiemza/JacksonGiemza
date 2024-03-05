@@ -8,8 +8,10 @@
 - <b>📈 Data Visualization</b>
   - [UFO Data Visualization](https://github.com/JacksonGiemza/ufo-data-vis-4602)
 - <b>🔎 Data Analysis Projects</b>
-  - [CSGO Market Data Exploration]() 
-
+  - [CSGO Market Data Exploration](https://github.com/JacksonGiemza/csgo_market_data_analysis) 
+- <b>🧪 Statistics</b>
+  - [CSGO Market Data Exploration](https://github.com/JacksonGiemza/csgo_market_data_analysis)
+  
 ### 👋🏻 Connect with Me
 
 - 708-340-8105
