@@ -16,6 +16,7 @@ I am on the lookout for opportunities that challenge me to expand my data skills
 
 - <b>📈 Data Visualization</b>
   - [UFO Data Visualization](https://github.com/JacksonGiemza/ufo-data-vis-4602)
+  - [Chicago School/Housing Data Dashboard](https://github.com/JacksonGiemza/chi-data-dashboard)
 - <b>🔎 Data Analysis Projects</b>
   - [CSGO Market Data Exploration](https://github.com/JacksonGiemza/csgo_market_data_analysis) 
 - <b>🧪 Statistics</b>
