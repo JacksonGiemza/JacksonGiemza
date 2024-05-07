@@ -22,6 +22,8 @@ I am on the lookout for opportunities that challenge me to expand my data skills
   - [CSGO Market Data Exploration](https://github.com/JacksonGiemza/csgo_market_data_analysis) 
 - <b>🧪 Statistics</b>
   - [Dice Roll Simulation](https://github.com/JacksonGiemza/dice-roll-simulator)
+- <b>✨ User Research</b>
+  - [INFO 1121 Project](https://github.com/JacksonGiemza/info1121_project) 
 
 ### 🛠 Tools
 - Languages
