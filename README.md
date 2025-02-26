@@ -1,6 +1,6 @@
 ![Banner](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Jackson%20Giemza.png)
 
-### 🙋‍♂️ About Me
+### About Me
 
 I'm student at the University of Colorado Boulder, majoring in Information Science and minoring in Philosophy. My journey through academia has been fueled by a seated passion for utilizing data to solve complex, impactful problems, particularly at the intersection of data and morality.
 
@@ -9,7 +9,8 @@ I am on the lookout for opportunities that challenge me to expand my data skills
 ⭐[My Resume!](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Jackson_Giemza_Resume_2024.pdf)
 
 ### 📚 Projects
-
+- <b>💻 Senior Capstone </b> (<i>work in progress</i>)
+  - [Job Forge](https://github.com/uniquedapoet/Job-Forge)
 - <b>📈 Data Visualization</b>
   - [UFO Data Visualization](https://github.com/JacksonGiemza/ufo-data-vis-4602)
   - [UFO Data Visualization Solo Redesign](https://github.com/JacksonGiemza/info4602-final-solo-redesign)
