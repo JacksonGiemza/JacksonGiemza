@@ -18,8 +18,11 @@ I am on the lookout for opportunities that challenge me to expand my data skills
   - [Visualizing the 2008 Financial Crisis](https://github.com/JacksonGiemza/2008-financial-crisis-visualizations)
 - <b>🔎 Data Analysis Projects</b>
   - [CSGO Market Data Exploration](https://github.com/JacksonGiemza/csgo_market_data_analysis) 
-- <b>🧪 Statistics</b>
+- <b>🧪 Math & Statistics</b>
+  - [Boids Algorithm Visualization](https://github.com/JacksonGiemza/boids-algorithm)
   - [Dice Roll Simulation](https://github.com/JacksonGiemza/dice-roll-simulator)
+- <b>🎮 Game Development</br>
+  - [Platformer in python]()
 - <b>✨ User Research</b>
   - [INFO 1121 Project](https://github.com/JacksonGiemza/info1121_project) 
 
