@@ -48,7 +48,7 @@ Pythons Altair to understand informative and manipulative data visualization.
 - **Programming:** Python, R, SQL, GIT
 - **Data Science & ML:** Scikit-Learn, TensorFlow, PyTorch, NLP, Pandas, NumPy  
 - **Data Visualization:** PowerBI, Tableau, Altair, Matplotlib
-- **Automation & Web Scraping:** Selenium, OpenAI API, Dynamic Web Scrapers  
+- **Professional Skills:** Analytical Thinking, Curiosity & Lifelong Learning, Adaptability, Communication, Collaboration  
 ---
 
 ## 📬 Connect with Me  
