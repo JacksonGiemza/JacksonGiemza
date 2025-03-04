@@ -42,9 +42,7 @@ Pythons Altair to understand informative and manipulative data visualization.
 
 ---
 
-## 🛠 Tech Stack  
-
-### 💻 **Languages & Tools**  
+## 🛠 Skills  
 - **Programming:** Python, R, SQL, GIT
 - **Data Science & ML:** Scikit-Learn, TensorFlow, PyTorch, NLP, Pandas, NumPy  
 - **Data Visualization:** PowerBI, Tableau, Altair, Matplotlib
