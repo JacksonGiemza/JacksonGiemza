@@ -2,7 +2,9 @@
 
 ## 👋 About Me  
 
-I'm a **Data Scientist** and **Information Science student** at the **University of Colorado Boulder**, with a minor in **Philosophy**. My passion lies in leveraging **data, AI, and automation** to solve complex, real-world problems—especially those at the intersection of **technology and ethics**.  
+I'm a **Data Scientist** and **Information Science student** at the **University of Colorado Boulder**, with a minor in **Philosophy**. My passion lies in leveraging **data, AI, and automation** to solve complex, real-world problems. Beyond that, I am deeply driven by a fundamental curiosity—a desire to understand the patterns that govern our world, from financial markets to the natural laws of the universe.
+
+This thirst for knowledge has shaped my academic and professional journey, leading me to explore algorithmic trading, machine learning, and automation as tools to make sense of uncertainty. I am especially fascinated by **quantitative finance**, using **statistical models**, **AI**, and **data-driven strategies** to navigate the complexities of financial markets. Whether it's identifying inefficiencies through **statistical arbitrage**, analyzing **market microstructure**, or developing **predictive trading algorithms**, I love the challenge of turning raw data into **actionable insights**.
 
 I thrive in **data-driven environments**, where I can build, analyze, and optimize solutions that enhance efficiency, drive insights, and create meaningful impact.  
 
@@ -51,10 +53,10 @@ Pythons Altair to understand informative and manipulative data visualization.
 
 ## 📬 Connect with Me  
 
-- **[LinkedIn](https://www.linkedin.com/in/jackson-giemza/)**
-- **[Medium](https://medium.com/@jacksong02.jg)**
-- **[Hire me on Upwork](https://www.upwork.com/freelancers/~019a597cca50b0200d)**
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-giemza/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jacksong02.jg)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019a597cca50b0200d)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/seenyween)
 ---
 
 ### 🔥 Why Work With Me?  
