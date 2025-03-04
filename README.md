@@ -11,6 +11,9 @@ I am on the lookout for opportunities that challenge me to expand my data skills
 ### 📚 Projects
 - <b>💻 Senior Capstone </b> (<i>work in progress</i>)
   - [Job Forge](https://github.com/uniquedapoet/Job-Forge)
+ 
+- <b>💹 Trading</b>
+  - [Statistical Arbitrage, Cointegration Analysis](https://github.com/JacksonGiemza/stat-arb)
 - <b>📈 Data Visualization</b>
   - [UFO Data Visualization](https://github.com/JacksonGiemza/ufo-data-vis-4602)
   - [UFO Data Visualization Solo Redesign](https://github.com/JacksonGiemza/info4602-final-solo-redesign)
