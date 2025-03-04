@@ -6,7 +6,7 @@ I'm student at the University of Colorado Boulder, majoring in Information Scien
 
 I am on the lookout for opportunities that challenge me to expand my data skills, in an environment of continuous learning and innovation. My goal is to contribute to projects that not only drive technological advancement but also consider the broader societal impact, embodying the values of accountability and progress.
 
-⭐[My Resume!](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Jackson_Giemza_Resume_2024.pdf)
+⭐[My Resume!](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Giemza_Jackson_Resume_2025.pdf)
 
 ### 📚 Projects
 - <b>💻 Senior Capstone </b> (<i>work in progress</i>)
