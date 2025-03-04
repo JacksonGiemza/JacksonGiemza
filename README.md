@@ -17,7 +17,7 @@ Currently, I’m looking for **internship or full-time opportunities** where I c
 ## 🚀 Projects  
 
 ### 💻 **Senior Capstone** (*Work in progress*)  
-We aim to revolutionize the job search process with AI resume optimization.
+We aim to revolutionize the job search process with AI powered resume optimization.
 - **[Job Forge](https://github.com/uniquedapoet/Job-Forge)** 
 
 ### 🔍 **Data Analysis & AI**  
