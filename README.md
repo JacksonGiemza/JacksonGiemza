@@ -11,7 +11,6 @@ I am on the lookout for opportunities that challenge me to expand my data skills
 ### 📚 Projects
 - <b>💻 Senior Capstone </b> (<i>work in progress</i>)
   - [Job Forge](https://github.com/uniquedapoet/Job-Forge)
- 
 - <b>💹 Trading</b>
   - [Statistical Arbitrage, Cointegration Analysis](https://github.com/JacksonGiemza/stat-arb)
 - <b>📈 Data Visualization</b>
@@ -36,21 +35,5 @@ I am on the lookout for opportunities that challenge me to expand my data skills
   - Tableau, Altair, Matplotlib
   
 ### 👋 Connect
-
 - [Linkedin](https://www.linkedin.com/in/jackson-giemza/)
 - Hire me on [Upwork](https://www.upwork.com/freelancers/~019a597cca50b0200d)
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
