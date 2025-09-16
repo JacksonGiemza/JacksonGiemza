@@ -51,4 +51,3 @@ Pythons Altair to understand informative and manipulative data visualization.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-giemza/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jacksong02.jg)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019a597cca50b0200d)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/seenyween)
