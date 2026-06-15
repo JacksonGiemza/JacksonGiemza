@@ -20,7 +20,7 @@ We aim to revolutionize the job search process with AI powered resume optimizati
 ### 🔍 **Data Analysis & AI**  
 - **[Kaggle | Multi Class Prediction of Obesity Risk](https://github.com/JacksonGiemza/kaggle-multi-class-prediction-of-obesity-risk)**
 - **[CSGO Market Data Exploration](https://github.com/JacksonGiemza/csgo_market_data_analysis)** – Analyzed pricing trends and market patterns in the CSGO economy
-- **[Statistical Arbitrage, Cointegration Analysis](https://github.com/JacksonGiemza/stat-arb)** – Developed a trading strategy using cointegration analysis
+- **[Statistical Arbitrage, Cointegration Analysis](https://github.com/JacksonGiemza/stat-ab)** – Developed a trading strategy using cointegration analysis
 - **Obesity Risk Prediction (Kaggle Competition)** – Achieved **top 8% ranking** in multi-class classification challenge
 
 ### 📊 **Data Visualization**  
