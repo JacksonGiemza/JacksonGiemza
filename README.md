@@ -1,19 +1,23 @@
-# ![Banner](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Jackson%20Giemza.png)
 
+# ![Banner](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Jackson%20Giemza.png)
+<!--
 ## 👋 About Me  
 
 I'm a **Data Scientist** and **Information Science student** at the **University of Colorado Boulder**, with a minor in **Philosophy**. My passion lies in leveraging **data, AI, and automation** to solve complex, real-world problems. Beyond that, I am deeply driven by a fundamental curiosity—a desire to understand the patterns that govern our world, from financial markets to the natural laws of the universe.
 
 Currently, I’m looking for **internship or full-time opportunities** where I can apply my skills in **data science, AI, automation, <br>
 and financial analysis**.  
-
+<!--
 📄 **[View My Resume](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Giemza_Jackson_Resume_2025.pdf)**  
-
+-->
 ---
 
 ## 🚀 Projects  
 
-### 💻 **Senior Capstone** (*Work in progress*)  
+### What im working on right now (as of 6/18/26)
+- **[VaR Engine](https://github.com/JacksonGiemza/risk-engine)**
+
+### 💻 **Senior Capstone**  
 We aim to revolutionize the job search process with AI powered resume optimization.
 - **[Job Forge](https://github.com/uniquedapoet/Job-Forge)** 
 
