@@ -20,7 +20,7 @@ and financial analysis**.
 ### 💻 **Senior Capstone**  
 We aim to revolutionize the job search process with AI powered resume optimization.
 - **[Job Forge](https://github.com/uniquedapoet/Job-Forge)** 
-
+<!--
 ### 🔍 **Data Analysis & AI**  
 - **[Kaggle | Multi Class Prediction of Obesity Risk](https://github.com/JacksonGiemza/kaggle-multi-class-prediction-of-obesity-risk)**
 - **[CSGO Market Data Exploration](https://github.com/JacksonGiemza/csgo_market_data_analysis)** – Analyzed pricing trends and market patterns in the CSGO economy
@@ -40,7 +40,7 @@ Pythons Altair to understand informative and manipulative data visualization.
 
 ### 🎮 **Game Development**  
 - **[Python Platformer]()** – Developing 2D platformer with Pygame
-
+-->
 ---
 
 ## 🛠 Skills  
