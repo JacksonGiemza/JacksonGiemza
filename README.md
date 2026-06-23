@@ -1,3 +1,4 @@
+<!--
 
 # ![Banner](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Jackson%20Giemza.png)
 <!--
@@ -10,8 +11,6 @@ and financial analysis**.
 <!--
 📄 **[View My Resume](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Giemza_Jackson_Resume_2025.pdf)**  
 -->
----
-
 ## 🚀 Projects  
 
 ### What im working on right now (as of 6/18/26)
