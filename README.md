@@ -41,7 +41,7 @@ Pythons Altair to understand informative and manipulative data visualization.
 - **[Python Platformer]()** – Developing 2D platformer with Pygame
 -->
 ---
-
+<!--
 ## 🛠 Skills  
 - **Programming:** Python, R, SQL, GIT
 - **Data Science & ML:** Scikit-Learn, TensorFlow, PyTorch, NLP, Pandas, NumPy  
