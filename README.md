@@ -48,7 +48,7 @@ Pythons Altair to understand informative and manipulative data visualization.
 - **Data Visualization:** PowerBI, Tableau, Altair, Matplotlib
 - **Professional Skills:** Analytical Thinking, Curiosity & Lifelong Learning, Adaptability, Communication, Collaboration  
 ---
-
+-->
 ## 📬 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-giemza/)
