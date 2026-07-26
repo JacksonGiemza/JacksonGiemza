@@ -15,7 +15,7 @@ and financial analysis**.
 
 ### What im working on right now (as of 6/18/26)
 - **[VaR Engine](https://github.com/JacksonGiemza/risk-engine)**
-- 
+  
 ### Comming Soon...
 - **The Lab** | Prediction market hypothesis driven quantitative trading strategy development platform
 
