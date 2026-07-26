@@ -17,7 +17,7 @@ and financial analysis**.
 - **[VaR Engine](https://github.com/JacksonGiemza/risk-engine)**
 - 
 ### Comming Soon...
-- **The Lab** Prediction market hypothesis driven quantitative trading strategy development platform
+- **The Lab** | Prediction market hypothesis driven quantitative trading strategy development platform
 
 ### 💻 **Senior Capstone**  
 We aim to revolutionize the job search process with AI powered resume optimization.
