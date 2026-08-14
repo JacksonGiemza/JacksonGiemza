@@ -15,7 +15,7 @@ and financial analysis**.
 
 ### What im working on right recently
 - **[VaR Engine](https://github.com/JacksonGiemza/risk-engine)**
-- **[Mini Fix Protocol Engine](https://github.com/JacksonGiemza/fix-protocol)**
+- **[FIX Protocol Parser & Log Analyzer](https://github.com/JacksonGiemza/fix-protocol)**
 ### Comming Soon...
 - **The Lab** | Prediction market hypothesis driven quantitative trading strategy development platform
 
