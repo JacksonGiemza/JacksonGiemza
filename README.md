@@ -11,7 +11,7 @@ and financial analysis**.
 <!--
 📄 **[View My Resume](https://github.com/JacksonGiemza/JacksonGiemza/blob/main/Giemza_Jackson_Resume_2025.pdf)**  
 -->
-## 🚀 Projects  
+## Projects  
 
 ### What im working on right recently
 - **[VaR Engine](https://github.com/JacksonGiemza/risk-engine)**
@@ -19,7 +19,7 @@ and financial analysis**.
 ### Comming Soon...
 - **The Lab** | Prediction market hypothesis driven quantitative trading strategy development platform
 
-### 💻 **Senior Capstone**  
+### **Senior Capstone**  
 We aim to revolutionize the job search process with AI powered resume optimization.
 - **[Job Forge](https://github.com/uniquedapoet/Job-Forge)** 
 <!--
