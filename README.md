@@ -1,4 +1,3 @@
-
 ## Projects  
 
 ### What im working on right recently
@@ -10,10 +9,3 @@
 ### **Senior Capstone**  
 We aim to revolutionize the job search process with AI powered resume optimization.
 - **[Job Forge](https://github.com/uniquedapoet/Job-Forge)** 
- GIT
-- **Data Science & ML:** Scikit-Learn, TensorFlow, PyTorch, NLP, Pandas, NumPy  
-- **Data Visualization:** PowerBI, Tableau, Altair, Matplotlib
-- **Professional Skills:** Analytical Thinking, Curiosity & Lifelong Learning, Adaptability, Communication, Collaboration  
----
-
-
