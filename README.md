@@ -3,6 +3,7 @@
 ### What im working on right recently
 - **[VaR Engine](https://github.com/JacksonGiemza/risk-engine)**
 - **[FIX Protocol Parser & Log Analyzer](https://github.com/JacksonGiemza/fix-protocol)**
+- **[Crypto Arbitrage Detection](https://github.com/JacksonGiemza/crypto-arb)** (getting better at performant web sockets)
 ### Comming Soon...
 - **The Lab** | Prediction market hypothesis driven quantitative trading strategy development platform
 
